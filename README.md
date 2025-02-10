@@ -1,4 +1,4 @@
-## Hi there 👋
+### Greetings! 👋
 
 <!--
 **mirham/mirham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### :man_technologist: About Me :
+
+- :computer: .NET Developer from Bulgaria
