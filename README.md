@@ -31,3 +31,8 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" alt="Microsoft SQL Server"  />      
 </p>
           
+#### 🔭 I'm working on
+- Media Organizer for macOS
+
+#### 🤔 My plans
+- A private online library with supporting INPX-files, with ability to roll out on Linux/NAS
