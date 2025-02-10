@@ -34,5 +34,8 @@ Here are some ideas to get you started:
 #### 🔭 I'm working on
 - Media Organizer for macOS
 
-#### 🤔 My plans
+#### 🤔 Plans
 - A private online library with supporting INPX-files, with ability to roll out on Linux/NAS
+
+#### 🔥 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirham&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
