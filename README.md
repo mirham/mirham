@@ -17,4 +17,17 @@ Here are some ideas to get you started:
 
 ##### :man_technologist: About Me :
 
-- :computer: .NET Developer from Bulgaria
+- :computer: .NET Developer with 17+ years of expirience
+
+#### 💼 Technical Skills
+<p>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" alt="DotNet Core"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" width="40" alt="Microsoft DotNet"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="40" alt="Azure Devops"  />      
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" alt="JavaScript" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="40" alt="Swift" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" alt="Microsoft SQL Server"  />      
+</p>
+          
