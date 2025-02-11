@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 </p>
           
 #### 🔭 I'm working on
-- Media Organizer for macOS
+- Media Organizer for macOS (pure Swift)
 
 #### 🤔 Plans
-- A private online library with supporting INPX-files, with ability to roll out on Linux/NAS
+- A private online library with supporting INPX-files, with ability to roll out on Linux/NAS (.NET Core + Angular)
 
 #### 🔥 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirham&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
