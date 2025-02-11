@@ -20,7 +20,8 @@ Here are some ideas to get you started:
  - Quality-oriented .NET developer with over 17 years of experience
  - Like programming for macOS when I have free time for it
  - Interested in new knowledge, traveling, mountain hiking, and cycling
- - Contact: <a href="https://www.linkedin.com/in/yuriyrusskikh/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   
+<a target=”_blank” href="https://www.linkedin.com/in/yuriyrusskikh/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 #### 💼 Technical Skills
 <p>
