@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##### :computer: About Me
 
- - Quality-oriented .NET developer with over 17 years of experience
+ - Result-oriented .NET developer with over 17 years of experience
  - Like programming for macOS when I have free time for it
  - Interested in new knowledge, traveling, mountain hiking, and cycling
    
