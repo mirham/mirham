@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - Media Organizer for macOS (pure Swift)
 
 #### 🤔 Plans
+- An app to keep shares persistently mounted for macOS (pure Swift)
 - A private online library with supporting INPX-files, with ability to roll out on Linux/NAS (.NET Core + Angular)
 
 #### 🔥 Stats
