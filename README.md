@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 </p>
           
 #### 🔭 I'm working on
-- Media Organizer for macOS (pure Swift)
+- Media Organizer: add custom tags
+- Media Organizer: add preview
 
 #### 🤔 Plans
 - An app to keep shares persistently mounted for macOS (pure Swift)
