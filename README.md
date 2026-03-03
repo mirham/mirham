@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 - A private online library with supporting INPX-files, with ability to roll out on Linux/NAS (.NET Core + Angular)
 
 #### 🔥 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirham&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mirham&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=mirham&langs_count=4&theme=transparent)
