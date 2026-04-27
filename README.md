@@ -48,6 +48,3 @@ Here are some ideas to get you started:
 #### 🤔 Plans
 - An app to keep shares persistently mounted for macOS (pure Swift)
 - A private online library with supporting INPX-files, with ability to roll out on Linux/NAS (.NET Core + Angular)
-
-#### 🔥 Stats
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mirham&layout=compact&langs_count=4&theme=apprentice)](https://github-stats-extended.vercel.app/api/top-langs?username=mirham&layout=compact&langs_count=4&theme=apprentice)
