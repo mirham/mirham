@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  - Senior Backend Engineer with 17+ years in C#/.NET and distributed systems
  - Like programming for macOS when I have free time for it
- - I respect the users of my applications, so my repository does not contain vibe-coded solutions.
+ - I respect the users of my applications, so my repository does not contain vibe-coded solutions
  - Interested in new knowledge, traveling, mountain hiking, and cycling
    
 <a href="https://www.linkedin.com/in/yuriyrusskikh" target=”_blank”><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
